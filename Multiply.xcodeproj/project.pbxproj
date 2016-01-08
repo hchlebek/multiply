@@ -156,6 +156,7 @@
 		3F6A42951BA7283800109D14 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = HChlebek;
 				TargetAttributes = {
@@ -411,6 +412,7 @@
 				3F6A42BE1BA7283800109D14 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3F6A42BF1BA7283800109D14 /* Build configuration list for PBXNativeTarget "MultiplyTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +421,7 @@
 				3F6A42C11BA7283800109D14 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
